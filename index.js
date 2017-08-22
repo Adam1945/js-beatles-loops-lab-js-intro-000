@@ -27,5 +27,3 @@ function iLoveTheBeatles(number) {
 
   return arr;
 }
-
-
